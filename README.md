@@ -99,6 +99,8 @@ docker-compose logs -f
 
 ## API Endpoints
 
+complete Documentation https://documenter.getpostman.com/view/23781195/2sAYJ4jLkn
+
 ### Authentication
 
 - `POST /auth/google` - Google Sign-In authentication (EXECUTE IN BROWSER)
